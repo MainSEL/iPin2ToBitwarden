@@ -9,3 +9,6 @@ target/
 
 ### Mac OS ###
 .DS_Store
+
+### iPin2ToBitwarden ###
+iPinToBitwarden.log
